@@ -1,0 +1,32 @@
+[
+    {
+        "year": 2015.0,
+        "plot": "A movie about big things",
+        "rating": 8.5,
+        "title": "The Big New Movie"
+    },
+    {
+        "year": 2019.0,
+        "plot": "Comedy",
+        "rating": "7.5",
+        "title": "Avesham"
+    },
+    {
+        "year": 2019.0,
+        "plot": "Sci-Fi",
+        "rating": "9.5",
+        "title": "Instellar"
+    },
+    {
+        "year": 2019.0,
+        "plot": "Rom-Com",
+        "rating": "8.5",
+        "title": "Premalu"
+    },
+    {
+        "year": 2019.0,
+        "plot": "Action",
+        "rating": "8.5",
+        "title": "Vikarm"
+    }
+]
